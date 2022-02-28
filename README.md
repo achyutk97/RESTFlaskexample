@@ -1,4 +1,4 @@
-# RESTFlaskexample
+# REST Flask example
 
 pip install -r requirements.txt
 python api/application.py
