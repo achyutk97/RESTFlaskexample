@@ -1,8 +1,8 @@
 # REST Flask example
 
-pip install -r requirements.txt
-python api/application.py
-python consume_api.py
-python delete_item.py
-python put_item.py
-python post_item.py
+# pip install -r requirements.txt \n
+# python api/application.py \n
+# python consume_api.py \n
+# python delete_item.py \n
+# python put_item.py \n
+# python post_item.py \n
